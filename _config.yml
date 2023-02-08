@@ -20,7 +20,7 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 여기는 타이틀
+title:                 Edward
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               테스트 수정
+tagline:               2021년부터 이것저것 공부중입니다.
 
 # A list of keywords for your blog
 keywords:              [java, javascripts, photo]
@@ -39,11 +39,13 @@ keywords:              [java, javascripts, photo]
 # It also used by the `jekyll-seo-tag` plugin.
 logo:                  /assets/img/logo.png
 
+
+
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <Jinyoung> <Choi>
-  email:               <dev.edchoi@gmail.com>
+  name:                Jinyoung Choi
+  email:               dev.edchoi@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -55,7 +57,7 @@ menu:
     url:               /test/  
   - title:             Documentation
     url:               /docs/
-  - title:             About
+  - title:             About EDWARD
     url:               /about/
 
 
@@ -83,8 +85,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-#theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-hydejack
+#remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
