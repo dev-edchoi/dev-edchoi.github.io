@@ -53,8 +53,8 @@ author:
 menu:
   - title:             Example
     url:               /example/
-  - title:             test
-    url:               /test/  
+  - title:             ReactJS
+    url:               /ReactJS/
   - title:             Documentation
     url:               /docs/
   - title:             About EDWARD
@@ -85,8 +85,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-#theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-hydejack
+#remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
